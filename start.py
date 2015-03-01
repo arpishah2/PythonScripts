@@ -1,5 +1,3 @@
-# problem saving json to file
-
 import multiprocessing
 import os
 import time
